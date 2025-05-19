@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('background.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    color: black !important;
+    text-align: center;
+}
+
+
+.hero {
+    font-size: 2.5em;
+    margin-top: 50px;
+}
+
+form input, form textarea, form select{
+    width:100%;
+    padding:10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+
+}
